@@ -1,0 +1,28 @@
+packages/app/src/components/mermaid-webview/mermaid-webview-entry.ts
+  s_3ee1ccf501121d::t_53ef2110ecb74f 68-71,73-74
+  s_3ee1ccf501121d::t_8e93b42b27533d 96-99
+packages/app/src/components/mermaid-diagram.native.tsx
+  s_3ee1ccf501121d::t_122536ad8859fe 48
+  s_3ee1ccf501121d::t_223fd7ef395662 94-96
+  s_3ee1ccf501121d::t_86d5e2428c2ae8 193-203
+  s_3ee1ccf501121d::t_eee86fae5b2e2e 222,232-233,236,240,250,254-259
+  s_3ee1ccf501121d::t_27b567e75c1757 65-66,69
+packages/app/src/components/mermaid-webview/mermaid-webview-html.gen.ts
+  s_3ee1ccf501121d::t_876fe0ccaf689f 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "1e7db1591f223de07eadc533e9b2494b1f11417e",
+  "prompts": {},
+  "sessions": {
+    "s_3ee1ccf501121d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7e08106-4663-4422-a433-a92d9c6a3faa",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Damon Meledones <dmeledon@users.noreply.github.com>"
+    }
+  }
+}
