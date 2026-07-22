@@ -1,0 +1,57 @@
+packages/app/src/components/mermaid-webview/mermaid-webview-entry.ts
+  s_b333eeb20b9142::t_757fbc6082b2c4 77
+  s_b333eeb20b9142::t_efe57a0d2569d2 93-97,105-108
+packages/app/scripts/build-mermaid-webview-html.mjs
+  s_b333eeb20b9142::t_e6b8f583669f8c 20-26,30-31,34-37
+packages/app/src/i18n/resources/ja.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 254
+packages/app/src/i18n/resources/pt-BR.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 254
+packages/app/src/i18n/resources/ru.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 253
+packages/app/src/i18n/resources/zh-CN.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 251
+packages/app/src/utils/mermaid-fence.ts
+  s_b333eeb20b9142::t_5bb62e6bedf3dd 35-37
+  s_b333eeb20b9142::t_bd7550ae8fb6c6 16-33
+packages/app/src/components/mermaid-diagram.native.tsx
+  s_b333eeb20b9142::t_200ea810149d1d 1
+  s_b333eeb20b9142::t_503094b2d09dba 239-245
+  s_b333eeb20b9142::t_ca1ff979e86950 273,276-277
+  s_b333eeb20b9142::t_33f85ea6cd7d44 301-304,310-313,315-317
+  s_b333eeb20b9142::t_f6594114b6fc66 280
+  s_b333eeb20b9142::t_faefb9611f7040 224
+  s_b333eeb20b9142::t_f3321d73dcca8b 122-127
+packages/app/src/i18n/resources/ar.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 251
+packages/app/package.json
+  s_b333eeb20b9142::t_ba1abe486f42ac 137
+packages/app/src/i18n/resources/es.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 254
+packages/app/src/i18n/resources/en.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 250
+packages/app/src/utils/mermaid-fence.test.ts
+  s_b333eeb20b9142::t_46e8c9783f51a7 35-53
+packages/app/src/i18n/resources/fr.ts
+  s_b333eeb20b9142::t_41f9b392d7b013 255
+packages/app/src/components/mermaid-webview/mermaid-webview-html.gen.ts
+  s_b333eeb20b9142::t_cccb7dfa67913a 4
+package-lock.json
+  s_b333eeb20b9142::t_41b37982d59ec8 36299
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "5cbf75af49a15908d40d5d55ae129e01092f0eb3",
+  "prompts": {},
+  "sessions": {
+    "s_b333eeb20b9142": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83dcaea9-777f-4336-b5a6-dd533c23b2b2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Damon Meledones <dmeledon@users.noreply.github.com>"
+    }
+  }
+}

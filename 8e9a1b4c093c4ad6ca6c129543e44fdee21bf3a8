@@ -1,0 +1,41 @@
+package-lock.json
+  s_188811d569de31::t_201a0e78f58f66 112-124,2378-2389,6442-6458,7765-7773,11191,11204,11217,11230,11243,11256,11269,11282,11295,11308,11321,11334,11347,11360,11373,11386,11399,11412,11425,11438,11451,11464,11477,11490,11503,12328-12580,12648-12653,12958-12964,13733-13742,16673-16681,16905-17403,17529-17534,17777-17785,18095-18103,18934-18943,23003-23008,23655-23664,23753-23761,25369-25393,25411-25415,25497-25502,26026-26031,26314-26325,26768-26809,29292-29297,29463-29468,29835-29850,31810-31815,31878-31889,31946-31951,33423-33428,34090-34098,36259
+packages/app/.claude/skills/verify/SKILL.md
+  s_188811d569de31::t_8f05162cb4494a 1-69
+packages/app/src/components/mermaid-webview/mermaid-webview-html.gen.ts
+  s_188811d569de31::t_542a0e9cd29e1c 1-4
+packages/app/src/utils/mermaid-fence.test.ts
+  s_188811d569de31::t_b11a778a2fb91e 1-43
+packages/app/package.json
+  s_188811d569de31::t_85c527ec4cdee2 32-33,97
+packages/app/scripts/build-mermaid-webview-html.mjs
+  s_188811d569de31::t_83c2188e9c62c5 1-61
+packages/app/src/components/markdown/renderer.tsx
+  s_188811d569de31::t_ea6a7fc6888aa3 27,29,597-613
+packages/app/src/components/mermaid-diagram.native.tsx
+  s_188811d569de31::t_946e554619e474 1-272
+packages/app/src/components/mermaid-diagram.tsx
+  s_188811d569de31::t_d3779a4f9e1148 1-22
+packages/app/src/components/mermaid-webview/mermaid-webview-entry.ts
+  s_188811d569de31::t_891acc17718245 1-96
+packages/app/src/components/message.tsx
+  s_188811d569de31::t_21ec76b0a42a4b 74-75,1719-1735
+packages/app/src/utils/mermaid-fence.ts
+  s_188811d569de31::t_a2f6f0acc01493 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8e9a1b4c093c4ad6ca6c129543e44fdee21bf3a8",
+  "prompts": {},
+  "sessions": {
+    "s_188811d569de31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f638d922-0218-4c23-ad20-0028403f0990",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Damon Meledones <dmeledon@users.noreply.github.com>"
+    }
+  }
+}
