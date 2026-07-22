@@ -1,0 +1,39 @@
+packages/app/src/i18n/resources/es.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 254-261
+packages/app/src/i18n/resources/ru.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 253-260
+packages/app/src/i18n/resources/ja.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 254-261
+packages/app/src/i18n/resources/pt-BR.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 254-261
+packages/app/src/i18n/resources/zh-CN.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 251-258
+packages/app/src/i18n/resources/fr.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 255-262
+packages/app/src/i18n/resources/en.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 250-257
+packages/app/src/i18n/resources/ar.ts
+  s_b333eeb20b9142::t_0c82304b03d24a 251-258
+packages/app/src/components/mermaid-diagram.native.tsx
+  s_b333eeb20b9142::t_984b5c501e36d5 235-236,249-255,259-262
+  s_b333eeb20b9142::t_952b411fd799ba 6,12
+  s_b333eeb20b9142::t_078a7451de277f 324
+  s_b333eeb20b9142::t_ed280198e19ace 345-346
+  s_b333eeb20b9142::t_1ae1aac210aa27 168-169,173-179,181-182,186-228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "cac174cf86b9a180a7f871aaa152f145b5c617a4",
+  "prompts": {},
+  "sessions": {
+    "s_b333eeb20b9142": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83dcaea9-777f-4336-b5a6-dd533c23b2b2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Damon Meledones <dmeledon@users.noreply.github.com>"
+    }
+  }
+}
