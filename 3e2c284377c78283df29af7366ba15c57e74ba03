@@ -1,0 +1,20 @@
+packages/app/src/components/mermaid-diagram.native.tsx
+  s_b333eeb20b9142::t_3d99c5523bbc0f 12
+  s_b333eeb20b9142::t_c668bb20fc6850 236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "3e2c284377c78283df29af7366ba15c57e74ba03",
+  "prompts": {},
+  "sessions": {
+    "s_b333eeb20b9142": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83dcaea9-777f-4336-b5a6-dd533c23b2b2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Damon Meledones <dmeledon@users.noreply.github.com>"
+    }
+  }
+}
