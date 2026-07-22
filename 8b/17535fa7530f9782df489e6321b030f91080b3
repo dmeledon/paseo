@@ -1,0 +1,29 @@
+packages/app/src/components/mermaid-diagram.web.tsx
+  s_5dae66390b00c1::t_c93e3912d3d3c7 155,165-172,176-190,193-205
+  s_5dae66390b00c1::t_c1dcc3b00f4f2c 298-304
+  s_5dae66390b00c1::t_50cb128e59d92c 480,487,492,497
+  s_5dae66390b00c1::t_ff07610086b09f 339,343-344,369,373-374,388
+packages/app/src/utils/mermaid-fence.ts
+  s_5dae66390b00c1::t_428c743472c3f4 9-15,18-43,47-53
+  s_5dae66390b00c1::t_078dd42013b5e4 16
+  s_5dae66390b00c1::t_c3598e9a4d05f2 54
+packages/app/src/utils/mermaid-fence.test.ts
+  s_5dae66390b00c1::t_eac054abe4d638 51-53
+  s_5dae66390b00c1::t_6aff5f78d26b0d 35,55-75,85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8b17535fa7530f9782df489e6321b030f91080b3",
+  "prompts": {},
+  "sessions": {
+    "s_5dae66390b00c1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8ae8-0f5f-7dd0-aab3-6df23462a4fe",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Damon Meledones <dmeledon@users.noreply.github.com>"
+    }
+  }
+}
